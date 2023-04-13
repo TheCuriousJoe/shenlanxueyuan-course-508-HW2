@@ -32,12 +32,13 @@ int main(int argc, char **argv){
     double scale = tc2c1.norm();
 
     Eigen::Matrix3d E_gt = EssentialMatrixFromPose(Rc2c1, tc2c1);
-
     Eigen::Matrix3d E = EssentialMatrixEightPointEstimate(normal_points1, normal_points2);
 
     std::cout << "E gt "<<std::endl<<E_gt<<std::endl;
-    std::cout << std::endl;
     std::cout << "E  "<<std::endl<<E<<std::endl;
-
+    std::cout << "Normalized E gt:"<<std::endl<<E_gt.normalized()<<std::endl;
+    std::cout << "Normalized E   :"<<std::endl<<E.normalized()<<std::endl;
+    std::cout << "Norm E gt:"<<std::endl<<E_gt.normalized().norm()<<std::endl;
+    std::cout << "Norm E   :"<<std::endl<<E.normalized().norm()<<std::endl;
     return 0;
 }

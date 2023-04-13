@@ -1,16 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="essential" targetName="essential_matrix" />
+    </generated>
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75bcce39-54ea-4b4a-b6d0-08241848bd20" name="Changes" comment="" />
+    <list default="true" id="75bcce39-54ea-4b4a-b6d0-08241848bd20" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework 2-1/triangulate/estimator/triangulation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework 2-1/triangulate/estimator/triangulation.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework 2-1/triangulate/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework 2-1/triangulate/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework 2-2/essential_matrix/estimator/essential_matrix.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework 2-2/essential_matrix/estimator/essential_matrix.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework 2-2/essential_matrix/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework 2-2/essential_matrix/main.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="1.1" />
   </component>
   <component name="ProjectId" id="2OEAR444sRJCIvm2EXOUgVIqTBE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -18,17 +44,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "cidr.known.project.marker": "true",
-    "last_opened_file_path": "/home/wdc/Projects/shenlanxueyuan-course-508/HW2",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/wdc/Projects/shenlanxueyuan-course-508/HW2&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="essential_matrix" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="essential" TARGET_NAME="essential_matrix" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="essential" RUN_TARGET_NAME="essential_matrix">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,6 +76,10 @@
       <option name="presentableId" value="Default" />
       <updated>1681115355841</updated>
       <workItem from="1681115357026" duration="283000" />
+      <workItem from="1681115647255" duration="215000" />
+      <workItem from="1681177806393" duration="353000" />
+      <workItem from="1681282864760" duration="12892000" />
+      <workItem from="1681364635897" duration="16745000" />
     </task>
     <servers />
   </component>

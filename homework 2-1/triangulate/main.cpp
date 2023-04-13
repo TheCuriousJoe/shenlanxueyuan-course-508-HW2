@@ -9,9 +9,11 @@ int main(int argc, char **argv){
     Camera camera = Camera(std::string(argv[1]));
     camera.GenerateFrames();
 
+    // p1 = M1P, p2 = M2P
+    // M1, M2
     Eigen::Matrix3x4d proj_mat1 = camera.GetFirstFrameProjectMatrix();
     Eigen::Matrix3x4d proj_mat2 = camera.GetSecondFrameProjectMatrix();
-
+    // vector<p1>, vector<p2>
     std::vector<Eigen::Vector2d> points1 = camera.GetFirstFramePoints();
     std::vector<Eigen::Vector2d> points2 = camera.GetSecondFramePoints();
 
