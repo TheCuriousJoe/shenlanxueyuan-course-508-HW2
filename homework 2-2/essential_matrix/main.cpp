@@ -38,7 +38,5 @@ int main(int argc, char **argv){
     std::cout << "E  "<<std::endl<<E<<std::endl;
     std::cout << "Normalized E gt:"<<std::endl<<E_gt.normalized()<<std::endl;
     std::cout << "Normalized E   :"<<std::endl<<E.normalized()<<std::endl;
-    std::cout << "Norm E gt:"<<std::endl<<E_gt.normalized().norm()<<std::endl;
-    std::cout << "Norm E   :"<<std::endl<<E.normalized().norm()<<std::endl;
     return 0;
 }

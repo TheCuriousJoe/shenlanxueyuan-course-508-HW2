@@ -14,11 +14,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75bcce39-54ea-4b4a-b6d0-08241848bd20" name="Changes" comment="">
+    <list default="true" id="75bcce39-54ea-4b4a-b6d0-08241848bd20" name="Changes" comment="Finished version.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework 2-1/triangulate/estimator/triangulation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework 2-1/triangulate/estimator/triangulation.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework 2-1/triangulate/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework 2-1/triangulate/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework 2-2/essential_matrix/estimator/essential_matrix.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework 2-2/essential_matrix/estimator/essential_matrix.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework 2-2/essential_matrix/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework 2-2/essential_matrix/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,11 +76,34 @@
       <workItem from="1681115647255" duration="215000" />
       <workItem from="1681177806393" duration="353000" />
       <workItem from="1681282864760" duration="12892000" />
-      <workItem from="1681364635897" duration="16745000" />
+      <workItem from="1681364635897" duration="16966000" />
     </task>
+    <task id="LOCAL-00001" summary="Finished version.">
+      <created>1681389990561</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681389990561</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finished version." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished version." />
   </component>
 </project>
